@@ -41,6 +41,7 @@ I enjoy solving real-world problems with software — whether that's a data pipe
 **[csv-detective](https://github.com/ekrmsnr/csv-detective)** — A CLI profiler for CSV files. Auto-detects column types, flags missing values and outliers via IQR, and summarizes distributions. Outputs a rich terminal report or a shareable HTML file.
 
 **[admet-screen](https://github.com/ekrmsnr/admet-screen)** — A drug candidate screening pipeline combining rule-based filters (Lipinski, Veber, PAINS) with ML models trained on Morgan fingerprints. Predicts blood-brain barrier permeability and hERG cardiotoxicity risk, then scores each molecule with a composite ADMET score.
+
 ---
 
 ### 📫 Reach me
