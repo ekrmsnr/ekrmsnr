@@ -42,6 +42,8 @@ I enjoy solving real-world problems with software — whether that's a data pipe
 
 **[admet-screen](https://github.com/ekrmsnr/admet-screen)** — A drug candidate screening pipeline combining rule-based filters (Lipinski, Veber, PAINS) with ML models trained on Morgan fingerprints. Predicts blood-brain barrier permeability and hERG cardiotoxicity risk, then scores each molecule with a composite ADMET score.
 
+**[finpulse](https://github.com/ekrmsnr/finpulse)** — A CLI portfolio analyzer that fetches live stock and crypto prices, calculates P&L and allocation, and uses Claude AI to generate a plain-language market summary with risks and opportunities. Exports an interactive HTML report with charts.
+
 ---
 
 ### 📫 Reach me
